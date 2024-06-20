@@ -2,3 +2,7 @@ name = "Example JL Test App"
 
 [deps]
 LanguageServer = "2b0e0bc5-e4fd-59b4-8912-456d1b03d8d7"
+
+[executionaliases]
+julials = "LanguageServer.main"
+juliafoo = "LanguageServer.something"
