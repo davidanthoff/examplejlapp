@@ -1,8 +1,8 @@
 name = "Example JL Test App"
 
 [deps]
-LanguageServer = "2b0e0bc5-e4fd-59b4-8912-456d1b03d8d7"
+StringBuilders = "db12335b-fddc-5e1b-b0ee-42071d21ae50"
 
 [executionaliases]
-julials = "LanguageServer.main"
-juliafoo = "LanguageServer.something"
+jlappexe1 = "StringBuilders.exe1"
+jlappexe2 = "StringBuilders.exe2"
