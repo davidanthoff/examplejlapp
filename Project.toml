@@ -1,4 +1,4 @@
-name = "Example JL Test App"
+name = "ExampleJlTestApp"
 
 [deps]
 StringBuilders = "db12335b-fddc-5e1b-b0ee-42071d21ae50"
